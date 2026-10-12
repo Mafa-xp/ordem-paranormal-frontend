@@ -4,7 +4,10 @@ Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema
 ---
 ## 🎥 Demonstração Visual
 
-<video src="https://github.com/user-attachments/assets/1f12c405-e2ce-4e8a-930c-d47ea6918375" controls="controls" style="max-width: 600px;"></video>
+
+
+https://github.com/user-attachments/assets/bf3d4cbb-a16c-4d96-bef3-c250da2354a4
+
 
 ---
 <img width="800" height="381" alt="GravaodeTela2026-10-1216583311-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/ec176be5-5b94-45fa-9e00-6805efff7efe" />
