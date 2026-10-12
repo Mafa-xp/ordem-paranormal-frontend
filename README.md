@@ -1,6 +1,12 @@
 # 👁️ Ordem Paranormal RPG — Front-end (React + TypeScript)
 
 Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema de RPG **Ordem Paranormal**. A aplicação possui tema sombrio imersivo, gerenciamento de passos (Criação de Agente, Seleção de Ameaça e Combate) e integração em tempo real com API REST.
+---
+## 🎥 Demonstração Visual
+
+<video src="https://github.com/user-attachments/assets/1f12c405-e2ce-4e8a-930c-d47ea6918375" controls="controls" style="max-width: 600px;"></video>
+
+---
 
 > 🔗 **Back-end da aplicação (Spring Boot):** [ordem-paranormal-backend](https://github.com/Mafa-xp/ordem-paranormal-backend)
 
@@ -32,7 +38,7 @@ Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema
 * **Recursos de Experiência do Usuário (UX):**
   * Histórico de combate transparente (ações do jogador e reações do inimigo).
   * Botão de reiniciar partida e escolher nova classe sem atualizar a página.
-
+    
 ---
 
 ## 🚀 Como Executar o Projeto
