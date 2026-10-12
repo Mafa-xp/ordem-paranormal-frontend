@@ -4,7 +4,7 @@ Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema
 ---
 ## 🎥 Demonstração Visual
 
-<video src="https://github.com/user-attachments/assets/1f12c405-e2ce-4e8a-930c-d47ea6918375" ></video>
+<video https://github.com/user-attachments/assets/1f12c405-e2ce-4e8a-930c-d47ea6918375></video>
 
 ---
 
