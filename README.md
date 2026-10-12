@@ -1,6 +1,6 @@
 # 👁️ Ordem Paranormal RPG — Front-end (React + TypeScript)
 
-Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema de RPG **Ordem Paranormal**. A aplicação possui tema sombrio imersivo, gerenciamento de passos (Criação de Agente, Seleção de Ameaça e Combate) e integração em tempo real com API REST.
+* **Interface web interativa desenvolvida em React, TypeScript e Vite para o sistema de RPG **Ordem Paranormal**. A aplicação possui tema sombrio imersivo, gerenciamento de passos (Criação de Agente, Seleção de Ameaça e Combate) e integração em tempo real com API REST.**
 ---
 ## 🎥 Demonstração Visual
 
