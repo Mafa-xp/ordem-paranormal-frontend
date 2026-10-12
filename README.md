@@ -39,18 +39,3 @@ https://github.com/user-attachments/assets/bf3d4cbb-a16c-4d96-bef3-c250da2354a4
   * Botão de reiniciar partida e escolher nova classe sem atualizar a página.
     
 ---
-
-## 🚀 Como Executar o Projeto
-
-```bash
-# Clone o repositório
-git clone [https://github.com/SEU_USUARIO/ordem-paranormal-frontend.git](https://github.com/SEU_USUARIO/ordem-paranormal-frontend.git)
-
-# Acesse a pasta do projeto
-cd ordem-paranormal-frontend
-
-# Instale as dependências
-npm install
-
-# Inicie o servidor de desenvolvimento
-npm run dev
